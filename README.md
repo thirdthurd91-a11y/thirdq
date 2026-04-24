@@ -1,2 +1,1 @@
-# thirdq
-school
+My Favorite Movie: Project Hail Mary
